@@ -1,0 +1,33 @@
+.header {
+  background-color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
+
+.slider {
+  background-color: green;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  justify-content: center;
+}
+
+.cuerpo {
+  background-color: orange;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  text-align: center;
+  justify-content: center;
+}
+
+.footer {
+  background-color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
